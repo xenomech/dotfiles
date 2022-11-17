@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.lineHeight": 2,
+    "editor.fontFamily": "Ligalex Mono",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontFamily": "'BlexMono Nerd Font Mono','Noto Color Emoji'",
+    "window.menuBarVisibility": "hidden",
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+}
