@@ -1,8 +1,4 @@
 ## Dotfiles Backup
 
-
-1. Base Arch
-2. xorg-server
-3. [ dwm, dmenu, st, dwmblocks, slock ]
-
-### Suckless everything!
+1. Base fedora
+2. [ i3, rofi, rofi themes, st, i3 lock, polybar ]
